@@ -1,0 +1,25 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.harvey {
+    background-image: url(./img/banner.jpeg);
+    width: 80rem;
+    height: 60rem;
+}
+
+/* .benyaptim{
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* img {
+    object-fit: contain !important;
+} */
