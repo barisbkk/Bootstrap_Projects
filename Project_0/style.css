@@ -1,0 +1,13 @@
+body {
+    background-color: #1ee04b;
+    background-image: linear-gradient(
+      45deg,
+      #1ee04b 0%,
+      #15b916 50%,
+      #d7dc0d 100%
+    );
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
